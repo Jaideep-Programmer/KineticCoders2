@@ -1,0 +1,6 @@
+{
+  "name": "KAVACH — Your Digital Guardian",
+  "description": "Cybersecurity risk assessment tool to analyze suspicious messages, links, and text for social engineering signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
